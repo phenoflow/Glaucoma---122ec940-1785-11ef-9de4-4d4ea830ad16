@@ -1,0 +1,72 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/glaucoma-tension---primary.py
+inputModule3:
+  class: File
+  path: python/glaucoma---primary.py
+inputModule4:
+  class: File
+  path: python/glaucoma-angle---primary.py
+inputModule5:
+  class: File
+  path: python/glaucoma-surgery---primary.py
+inputModule6:
+  class: File
+  path: python/glaucoma-specified---primary.py
+inputModule7:
+  class: File
+  path: python/glaucoma-pressure---primary.py
+inputModule8:
+  class: File
+  path: python/glaucoma-suture---primary.py
+inputModule9:
+  class: File
+  path: python/glaucoma-operation---primary.py
+inputModule10:
+  class: File
+  path: python/chronic-glaucoma---primary.py
+inputModule11:
+  class: File
+  path: python/glaucoma-iridosclerotomy---primary.py
+inputModule12:
+  class: File
+  path: python/glaucoma-trabeculotomy---primary.py
+inputModule13:
+  class: File
+  path: python/glaucoma-viscocanulostomy---primary.py
+inputModule14:
+  class: File
+  path: python/glaucoma-goniotomy---primary.py
+inputModule15:
+  class: File
+  path: python/glaucoma-incision---primary.py
+inputModule16:
+  class: File
+  path: python/glaucoma-meshwork---primary.py
+inputModule17:
+  class: File
+  path: python/glaucoma-filtering---primary.py
+inputModule18:
+  class: File
+  path: python/glaucoma-iridotomy---primary.py
+inputModule19:
+  class: File
+  path: python/viscogonioplasty-glaucoma---primary.py
+inputModule20:
+  class: File
+  path: python/glaucoma-laser---primary.py
+inputModule21:
+  class: File
+  path: python/glaucoma-trabeculectomy---primary.py
+inputModule22:
+  class: File
+  path: python/glaucoma-goniopuncture---primary.py
+inputModule23:
+  class: File
+  path: python/output-cases.py
